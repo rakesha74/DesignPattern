@@ -1,0 +1,4 @@
+c:\users\rakagarw\documents\visual studio 2010\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+c:\users\rakagarw\documents\visual studio 2010\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+c:\users\rakagarw\documents\visual studio 2010\Projects\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+c:\users\rakagarw\documents\visual studio 2010\Projects\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
